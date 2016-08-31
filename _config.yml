@@ -1,0 +1,14 @@
+layout_spectrum: 0.053368871565908194
+typography_spectrum: 0.2604614414740354
+color:
+  brandStrength: 0.9691276396624744
+  lightness: 0.2369363142643124
+  saturation: 0.9922425174154341
+  rhythmicContrast: 0.03115386050194502
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: once-a-day
